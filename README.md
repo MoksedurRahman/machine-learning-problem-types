@@ -13,15 +13,15 @@ Supervised learning involves labeled data. The model learns to map inputs to kno
 | Project | Description |
 |--------|-------------|
 | [Heart Disease Prediction](https://github.com/MoksedurRahman/heart_disease_classification) | Predict heart disease from medical attributes |
-| [Spam Detection](./1-supervised-learning/classification/email-spam-detection) | Detect whether an email is spam or not |
+| [Spam Detection] | Detect whether an email is spam or not |
 
 ### b. Regression
 **Goal:** Predict continuous numeric values
 
 | Project | Description |
 |--------|-------------|
-| [House Price Prediction](./1-supervised-learning/regression/house-price-prediction) | Predict house prices based on features like location and area |
-| [Fuel Consumption](./1-supervised-learning/regression/fuel-consumption-prediction) | Estimate fuel usage based on engine and vehicle metrics |
+| [House Price Prediction](https://github.com/MoksedurRahman/california-housing-price-prediction) | Predict house prices based on features like location and area |
+| [Fuel Consumption](https://github.com/MoksedurRahman/fuel-consumption-analysis) | Estimate fuel usage based on engine and vehicle metrics |
 
 ---
 
