@@ -12,7 +12,7 @@ Supervised learning involves labeled data. The model learns to map inputs to kno
 
 | Project | Description |
 |--------|-------------|
-| [Heart Disease Prediction](./1-supervised-learning/classification/heart-disease-prediction) | Predict heart disease from medical attributes |
+| [Heart Disease Prediction](https://github.com/MoksedurRahman/heart_disease_classification) | Predict heart disease from medical attributes |
 | [Spam Detection](./1-supervised-learning/classification/email-spam-detection) | Detect whether an email is spam or not |
 
 ### b. Regression
