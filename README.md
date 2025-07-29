@@ -88,7 +88,7 @@ Detect unusual patterns or outliers.
 
 | Project | Description |
 |--------|-------------|
-| [Credit Card Fraud Detection] | Identify fraudulent transactions |
+| [Credit Card Fraud Detection](https://github.com/MoksedurRahman/credit-card-fraud-detection) | Identify fraudulent transactions |
 | [Network Intrusion Detection] | Detect suspicious network activity |
 
 ---
