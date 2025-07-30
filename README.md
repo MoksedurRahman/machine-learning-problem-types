@@ -78,7 +78,7 @@ Predict future values from historical time-series data.
 
 | Project | Description |
 |--------|-------------|
-| [Sales Forecasting] | Predict monthly sales using LSTM |
+| [Sales Forecasting](https://github.com/MoksedurRahman/sales-forecasting) | Predict monthly sales using LSTM |
 | [Weather Prediction] | Forecast weather conditions |
 
 ---
